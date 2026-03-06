@@ -898,7 +898,7 @@ export default function App() {
           <div className="bg-brand-gold p-2 rounded-lg">
             <BookOpen className="w-6 h-6 text-brand-blue" />
           </div>
-          <h1 className="text-xl font-bold tracking-tight hidden sm:block">ИТ-Школа</h1>
+          <h1 className="text-xl font-bold tracking-tight hidden sm:block">КГУ</h1>
           
           <div className="h-8 w-px bg-white/20 mx-2 hidden sm:block" />
           
